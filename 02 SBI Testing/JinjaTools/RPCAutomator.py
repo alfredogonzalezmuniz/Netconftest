@@ -1,4 +1,5 @@
 __author__ = 'arturomayoral'
+__author2__ = 'alfredogm'
 
 import sys, os, yaml
 from jinja2 import Environment, FileSystemLoader
