@@ -51,6 +51,7 @@ def get_config_rpc_with_filter_generator(filter, tec):
     tvars={"filter":filter}
     out = template.render(tvars)
     return out
+###comentario de prueba
 
 def create_folders_and_files(vendor, tec, host=None):
     try:
